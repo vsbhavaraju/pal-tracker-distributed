@@ -1,6 +1,6 @@
 ---
 resources:
-- name: pal-tracker-dist
+- name: pal-tracker
   type: git
   source:
     uri: {{github-repository}}

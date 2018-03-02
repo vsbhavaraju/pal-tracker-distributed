@@ -8,7 +8,7 @@ image_resource:
     tag: '8-jdk'
 
 inputs:
-- name: pal-tracker-dist
+- name: pal-tracker
 - name: version
 
 outputs:
